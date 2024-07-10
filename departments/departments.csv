@@ -1,0 +1,14 @@
+id;Address;X;Y;status;isMain
+1;12 Riverbank Lane;202;169;1;0
+2;8 East Plaza Avenue;92;102;1;0
+3;15 West Elm Street;260;155;1;0
+4;20 North Bridge Road;171;132;1;0
+5;33 South Orchard Boulevard;288;132;1;0
+6;42 Maple Street;121;153;1;0
+7;50 Riverside Drive;156;32;1;0
+8;60 Central Parkway;241;101;1;0
+9;70 Magnolia Avenue;278;255;1;0
+10;82 Pine Lane;187;68;0;0
+11;90 Oak Boulevard;199;72;1;1
+12;100 Birch Road;251;189;1;0
+13;110 Cherry Street;230;207;1;0

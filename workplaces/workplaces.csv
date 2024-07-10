@@ -1,0 +1,14 @@
+id;nameWorkplace;status;outsource;idDepartment
+1;Metabolic Analysis Unit;1;0;1
+2;Advanced Cytology Wing;1;1;2
+3;Pathogen Investigation Lab;1;0;3
+4;Immune Response Center;1;0;4
+5;Blood Science Division;1;0;5
+6;Microbial Research Hub;1;0;6
+7;Viral Pathogenesis Lab;1;0;7
+8;Genetic Pathogen Lab;1;0;8
+9;Women's Health Cytology Unit;1;0;9
+10;Immunization Research Facility;0;0;10
+11;Tissue Analysis Section;1;0;11
+12;Joint Fluid Diagnostics;1;0;12
+13;Meningococcal Surveillance Center;1;0;13
