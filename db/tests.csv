@@ -1,0 +1,473 @@
+code;name;idGroup;comment;price;costprice
+101-001;1,25-dihydroxy vitamin D (DHVD);1;;1190;595,00
+102-001;Abdominal mass FNA;2;;1620;972,00
+103-001;Abscesses and Deep-Seated Wound Infections;3;;370;148,00
+104-001;Acetyl Choline Receptor Antibodies;4;;1800;720,00
+101-002;Acid base status;1;Gases;1950;1365,00
+102-002;Acid fast bacilli (mycobacteria) Special Stain;2;;1900;760,00
+105-001;Activated partial thromboplastin time;5;;870;435,00
+101-003;Actual bicarbonate;1;;1300;910,00
+101-004;Acute kidney injury score;1;AKI;1030;618,00
+104-002;Acute Leukaemia Panel;4;Can include: CD2, CD10, CD13, CD14, CD19, CD33, CD34, cytoCD79a, CD117, cytoTdT, cytoMPO;1770;1062,00
+106-001;Adenovirus;6;;1800;720,00
+104-003;Adrenal antibody;4;;1590;795,00
+102-003;Adrenal FNA;2;;150;75,00
+101-005;AFP;1;Alpha-feto-protein;890;445,00
+101-006;Alanine Aminotransferase;1;ALT;1400;980,00
+101-007;Albumin;1;;290;116,00
+101-008;Albumin Creatinine Ratio (ACR);1;ACR;490;196,00
+101-009;Albumin excretion (urine micro albumin);1;;190;95,00
+101-010;Aldosterone;1;;750;225,00
+101-011;Alkaline Phosphatase;1;ALP;140;56,00
+101-012;Alkaline Phosphate isoenzymes;1;;110;44,00
+104-004;Allergen Specific IgE;4;;1300;650,00
+101-013;Alpha-1-Antitrypsin;1;A1AT;810;243,00
+101-014;Amikacin;1;;1740;696,00
+101-015;Aminotransferase;1;;1170;702,00
+101-016;Ammonia;1;;400;160,00
+101-017;Androstenedione;1;;1280;640,00
+101-018;Anion-Gap;1;;110;77,00
+104-005;Anti C1q;4;;1110;555,00
+104-006;Anti Myelin oligodendrocyte glycoprotein (MOG) Antibodies;4;MOG;300;120,00
+104-007;Anti-Basal Ganglia Abs;4;;1550;930,00
+103-002;Antibiotic Susceptibility Tests;3;"Antimicrobial Susceptibility Test; AST";420;210,00
+105-002;Antibody screen and save serum;5;;520;364,00
+105-003;Antibody titre;5;;1720;688,00
+104-008;Anti-cyclic citrullinated peptide (CCP);4;"CCP; Cyclic citrullinated peptide";700;280,00
+107-001;Anti-Hepatitis Bs antibody Virology;7;;1860;744,00
+104-009;Anti-neutrophil cytoplasmic antibody (ANCA);4;ANCA;110;66,00
+104-010;Antinuclear antibody (ANA);4;ENA antibodies includes: Ro (SS-A 52, SSA-60), La (SS-B), Sm, Sm/RNP, RNP (RNP A, RNP 68), Ribosomal P, Chromatin, Jo-1, and Scl-70;960;288,00
+105-004;Antithrombin;5;;100;30,00
+104-011;AP100 Alternative Pathway Haemolytic Complement;4;;590;236,00
+105-005;APTT;5;;140;70,00
+104-012;Aquaporin 4;4;;100;60,00
+102-004;Ascitic fluid;2;;1930;579,00
+101-019;Aspartate Aminotransferase;1;AST;1590;795,00
+104-013;Aspergillus fumigatus precipitins;4;;490;147,00
+108-001;Aspergillus PCR;8;Invasive infection with Aspergillus;640;192,00
+104-014;Autoimmune diabetes marker panel;4;;1460;1022,00
+104-015;Avian precipitins;4;;150;105,00
+104-016;B Cell Maturation Panel;4;;1900;1140,00
+107-002;Bartonella (referral);7;;490;343,00
+104-017;Bence Jones protein (Urinary light chains) Urine immunofixation;4;;650;260,00
+104-018;Beta 2 Glycoprotein (IgG and IgM);4;;330;165,00
+101-020;Beta Hydroxybutyrate;1;;680;408,00
+101-021;Bicarbonate;1;;1030;618,00
+101-022;Bile acids;1;;480;144,00
+102-005;Bile duct brushings;2;;1100;440,00
+101-023;Bilirubin (conjugated/direct);1;;1030;515,00
+101-024;Bilirubin (total);1;;960;288,00
+108-002;BK virus PCR;8;Polyoma viruses (BK);880;440,00
+102-006;Bladder washings;2;;1530;918,00
+107-003;Blastomyces (referral);7;;670;335,00
+105-006;Bleeding Time;5;;540;216,00
+103-003;Blood Cultures;3;;410;287,00
+105-007;Blood group;5;;550;330,00
+105-008;Blood Transfusion;5;;650;260,00
+101-025;Bloodspot 17-hydroxyprogesterone;1;17 OHP (blood spot);440;132,00
+101-026;BNP (N-terminal pro BNP);1;;1310;786,00
+108-003;Bocavirus PCR (referral);8;;280;140,00
+105-009;Bone marrow report;5;;1980;594,00
+108-004;Bordetella pertussis PCR;8;"Bordetella pertussis culture; Pernasal swab (for pertussis)";1290;387,00
+101-027;Breath Hydrogen Test;1;;550;330,00
+102-007;Bronchial brushings;2;;1320;660,00
+102-008;Bronchial trap;2;;1050;420,00
+102-009;Bronchoalveolar lavage;2;;1510;906,00
+107-004;Brucella (referral);7;;1740;522,00
+101-028;Busulphan;1;;1050;525,00
+104-019;C1 esterase inhibitor;4;;1560;624,00
+104-020;C1 esterase inhibitor functional test;4;;930;651,00
+104-021;C1q;4;;1710;1197,00
+104-022;C3 nephritic factor;4;;480;192,00
+101-029;CA125;1;;1040;520,00
+101-030;Caeruloplasmin;1;;970;582,00
+101-031;Calcium (blood and urine);1;;1390;973,00
+101-032;Calcium ionized;1;;300;150,00
+101-033;Calcium, plasma, total;1;;280;84,00
+101-034;Calprotectin (faeces);1;;1850;555,00
+107-005;Campylobacter serology (referral);7;;1020;612,00
+108-005;Candida PCR;8;Invasive infection with Candida;1980;594,00
+107-006;Candida precipitins (referral);7;;790;316,00
+101-035;Carbamazepine;1;;1610;483,00
+101-036;Carboxyhaemoglobin;1;;740;296,00
+104-023;Cardiac muscle antibodies;4;;340;238,00
+104-024;Cardiolipin (IgG and IgM) antibodies;4;;1620;648,00
+104-025;CASPR & LGi1 Antibodies;4;;1650;825,00
+101-037;Catecholamines (urine);1;;130;65,00
+104-026;CD34 (Stem cells);4;;670;268,00
+104-027;CD4 count (T cell count);4;;1110;333,00
+101-038;CEA;1;;1150;345,00
+102-010;Cerebrospinal fluid;2;;990;495,00
+109-001;Cervical Cytology;9;;1150;345,00
+104-028;CH50 complement activity Classical Pathway;4;;1420;994,00
+101-039;Chain-of-custody medico-legal specimens;1;;420;126,00
+108-006;Chlamydia trachomatis, Neisseria gonorrhoea, Trichomonas vaginalis, Mycoplasma genitalium NAATs;8;;710;426,00
+101-040;Chloride;1;;570;228,00
+101-041;Cholesterol;1;;1390;973,00
+101-042;Cholinesterase;1;;1590;795,00
+101-043;Chromium;1;;1150;345,00
+104-029;Chronic lymphocytic/lymphoma panel;4;Can include: CD2, CD3, CD4, CD5, CD8, CD10, CD11c, CD16/CD56, CD19, CD23, CD25, CD38, CD79b, FMC7, Kappa and lambda light chains on B cells;1280;768,00
+103-004;Clostridium difficile GDH and Toxin;3;;1020;306,00
+108-007;CMV (cytomegalovirus) antiviral resistance markers;8;Cytomegalovirus anitviral resistance markers;1710;855,00
+107-007;CMV (cytomegalovirus) IgG;7;Cytomegalovirus (CMV) IgG;1550;1085,00
+107-008;CMV (cytomegalovirus) IgG avidity;7;Cytomegalovirus (CMV) IgG avidity;880;352,00
+107-009;CMV (cytomegalovirus) IgM;7;Cytomegalovirus (CMV) IgM;900;540,00
+108-008;CMV (cytomegalovirus) viral load;8;Cytomegalovirus viral load;430;258,00
+101-044;Cobalt;1;;1040;520,00
+107-010;Coccidioides (referral);7;;470;329,00
+104-030;Coeliac Disease Antibodies;4;;1680;840,00
+105-010;Cold agglutinin titres (4°C);5;;1020;408,00
+104-031;Complement C3;4;;1400;700,00
+104-032;Complement C4;4;;240;96,00
+103-005;Contact lens;3;;920;552,00
+101-045;Copper (blood and urine);1;;1570;471,00
+105-011;Cord blood investigations;5;;1150;575,00
+103-006;Corneal Scrape (Bacteriology);3;;2000;1000,00
+107-011;Corneal Scrape (Virology);7;;740;222,00
+108-009;Coronavirus COVID-19 Testing for SARS-CoV-2;8;;830;581,00
+101-046;Cortisol;1;;620;372,00
+104-033;COVID 19 Antibodies;4;;1150;690,00
+101-047;C-peptide;1;;1600;480,00
+101-048;C-reactive protein (CRP);1;;1300;520,00
+101-049;Creatine Kinase;1;CK;1810;1086,00
+101-050;Creatinine (blood and urine);1;;1600;800,00
+101-051;Creatinine clearance;1;;1020;510,00
+104-034;Crithidia antibodies;4;;1090;654,00
+105-012;Cross matching;5;;650;325,00
+104-035;Cryoglobulins;4;;930;558,00
+107-012;Cryptococcus antigen;7;;340;204,00
+103-007;CSF;3;;1510;755,00
+105-013;CSF;5;;1520;608,00
+101-052;CTX;1;;1030;412,00
+103-008;Culture;3;;600;360,00
+101-053;Cyclosporin A;1;Ciclosporin;1640;1148,00
+101-054;Cystatin C;1;;1260;630,00
+103-009;Cystic Fibrosis;3;;860;516,00
+101-055;Digoxin;1;;1480;444,00
+110-001;Diphtheria IgG antibody determination;10;;160;80,00
+105-014;Direct Antiglobulin Test;5;;550;165,00
+105-015;DNA Testing for the Haemoglobinopathies;5;;840;588,00
+104-036;Double Negative T Cell (DNT) panel;4;;1780;1246,00
+104-037;Double stranded DNA antibodies (IgG);4;;180;108,00
+107-013;Dried blood spot Hepatitis C RNA screening;7;;410;246,00
+107-014;Dried blood spot Syphilis antibody;7;;1500;600,00
+101-056;Drugs of abuse (urine screen);1;;1460;584,00
+103-010;Ear;3;;1560;468,00
+107-015;EBV (EBNA);7;EBNA, Epstein Barr Virus (EBNA);270;81,00
+101-057;eGfR (estimated GfR);1;;780;234,00
+107-016;Ehrlichia IF (referral);7;;530;371,00
+101-058;Elastase (faeces);1;;540;378,00
+101-059;Electrolytes (urine);1;;1450;725,00
+111-001;Electron microscopy;11;;170;68,00
+104-038;EMA binding assay for Hereditary Spherocytosis;4;;350;105,00
+107-017;Enteric Virus Panel;7;"Adenovirus 40/41 (Enteric) PCR; Astrovirus PCR; Norovirus PCR; Rotavirus PCR; Sapovirus PCR";1240;744,00
+108-010;Enterovirus and parechovirus PCR;8;;670;335,00
+111-002;Enzyme histochemistry;11;;290;203,00
+105-016;EPO;5;;750;300,00
+107-018;Epstein Barr Virus screening;7;EBV VCA IgG, IgM;1450;870,00
+108-011;Epstein Barr Virus viral load;8;EBV viral load;340;170,00
+105-017;Erythrocyte Sedimentation Rate (ESR);5;;1430;572,00
+105-018;Erythropoietin;5;;1950;585,00
+101-060;Ethanol (drinking alcohol);1;;870;522,00
+103-011;Eye;3;;1800;900,00
+105-019;Factor II assay;5;;1270;635,00
+105-020;Factor IX assay;5;;1790;1074,00
+105-021;Factor IX inhibitors;5;;850;510,00
+105-022;Factor V assay;5;;1280;896,00
+105-023;Factor V Leiden Mutation screen;5;;1060;530,00
+105-024;Factor VII assay;5;;1850;740,00
+105-025;Factor VIII assay;5;;360;144,00
+105-026;Factor VIII inhibitors;5;;210;105,00
+105-027;Factor X assay;5;;470;141,00
+105-028;Factor XI assay;5;;950;285,00
+105-029;Factor XII assay;5;;1640;820,00
+101-061;Faecal immunochemical testing;1;FIT;100;60,00
+101-062;Faecal reducing substances;1;;1490;745,00
+103-012;Faeces Culture;3;;1140;342,00
+112-001;Failing metal-on-metal prosthetic joints;12;;490;343,00
+105-030;FBC;5;;690;483,00
+105-031;FDP D-Dimers;5;;950;380,00
+112-002;Features associated with ganglia;12;;140;56,00
+112-003;Features of Juvenile inflammatory arthropathy;12;;1240;496,00
+112-004;Features of rheumatoid disease;12;;630;315,00
+101-063;Ferritin;1;;1220;854,00
+105-032;Fibrin Degradation Products;5;;700;210,00
+105-033;Fibrinogen;5;;1060;636,00
+103-013;Fluids from Normally Sterile Sites;3;"Joint fluids; sterile fluids";1670;501,00
+101-064;Folate (serum and red cell);1;;1200;720,00
+101-065;Follicle stimulating hormone;1;FSH;950;665,00
+101-066;Free fatty acids;1;;1440;432,00
+104-039;Free Light Chains;4;;1150;575,00
+101-067;Free thyroxine;1;Free T4;1870;1122,00
+101-068;Free Tri-iodothyronine;1;Free T3;460;184,00
+105-034;Full blood count and automated differential;5;;680;340,00
+105-035;G6PD Assay (if screen gives intermediate or reduced result);5;;1420;852,00
+105-036;G6PD Screen;5;;1090;763,00
+104-040;GABAb receptor & AMPA receptor 1/2 antibodies;4;;1090;545,00
+107-019;Galactomannan referral;7;;1660;1162,00
+101-069;Gamma-glutamyl transferase;1;GGT;1740;1218,00
+104-041;Ganglioside Abs GM1;4;;480;288,00
+104-042;Ganglioside Abs GQ1b;4;;1680;504,00
+103-014;Genital specimens for culture;3;;1490;596,00
+101-070;Gentamicin;1;;1370;548,00
+105-037;Glandular fever screening test;5;;1420;426,00
+104-043;Glomerular basement membrane antibodies;4;;230;138,00
+101-071;Glucose;1;;870;261,00
+104-044;Glutamic Acid Decarboxylase Antibodies;4;;1990;597,00
+101-072;Glycated Haemoglobin;1;HbA1c;360;144,00
+112-005;Gout (urate crystals);12;;1840;1288,00
+112-006;Gram +ve/-ve sepsis;12;;1470;1029,00
+101-073;Growth Hormone;1;hGH;1860;930,00
+105-038;Haemochromatosis C282Y, H63D and S65C genotyping;5;;190;57,00
+105-039;Haemoglobinopathy Screening;5;;800;400,00
+110-002;Haemophilius influenze type b antibody;10;;830;415,00
+105-040;Haptoglobulin Estimation;5;;1360;816,00
+101-074;HCG blood (pregnancy and as tumour marker);1;"Pregnancy test (blood); Human Chorionic Gonadotrophin";1500;600,00
+108-012;HCV genotyping;8;;410;205,00
+103-015;Helicobacter pylori;3;;100;50,00
+103-016;Helicobacter pylori in Gastric Biopsies;3;Gastric Biopsies for Helicobacter pylori;840;588,00
+105-041;Heparin control;5;;480;192,00
+107-020;Hepatitis A total antibody (IgG and IgM);7;;1740;522,00
+107-021;Hepatitis A virus (HAV) IgM;7;;1680;672,00
+107-022;Hepatitis B (HBV) confirmation;7;HBV confirmation;800;560,00
+107-023;Hepatitis B (HBV) core antibodies;7;HBV core antibodies;850;425,00
+107-024;Hepatitis B (HBV) core IgM (anti-HBc IgM);7;;750;525,00
+107-025;Hepatitis B (HBV) surface antigen (HBsAg);7;"HBV surface antibody; anti HBs; HBsAg";680;408,00
+107-026;Hepatitis B virus (HBV) e antigen (HBeAg) and e antibody (Anti-HBe);7;"Hepatitis B e antibody; Hepatitis B e antigen";1000;400,00
+108-013;Hepatitis B virus Genotyping and Resistance Markers;8;HBV resistance markers;1270;635,00
+106-002;Hepatitis B virus viral load;6;;1620;648,00
+107-027;Hepatitis C antibody (HCV) screen and confirmation;7;Anti-HCV antibody screen and confirmation;1110;777,00
+108-014;Hepatitis C viral load;8;;1890;945,00
+107-028;Hepatitis D (delta) antibody;7;;1370;822,00
+107-029;Hepatitis E IgG (referral);7;;1870;935,00
+107-030;Hepatitis E IgM;7;;950;380,00
+107-031;Herpes simplex 1/2 antibody (type specific, IgM and total antibody);7;;440;264,00
+108-015;Herpes simplex virus types 1 and 2 PCR;8;;690;483,00
+105-042;HFE;5;;280;196,00
+109-002;High Risk HPV Test of Cure;9;;240;144,00
+109-003;High Risk HPV triage;9;;510;306,00
+104-045;Histone Abs;4;;400;240,00
+107-032;Histoplasma (referral);7;;430;172,00
+107-033;HIV confirmation (screen test plus at least two further tests for HIV 1/2) Virology;7;;1640;984,00
+107-034;HIV p24 antigen Virology;7;;500;250,00
+108-016;HIV resistance, integrase, tropism Molecular Microbiology;8;;1900;570,00
+107-035;HIV screen (4th generation: HIV1 and 2 antibody and p24 antigen);7;Anti-HIV 1 and 2 antibody and p24 antigen screen;350;105,00
+108-017;HIV-1 viral load;8;;520;208,00
+108-018;Human Herpes virus 6 & 7;8;HHV6 & 7 PCR;610;183,00
+108-019;Human Papilloma Virus Screening;8;;1920;960,00
+107-036;Human Parvovirus B19 IgG;7;Parvovirus B19 IgG;730;365,00
+107-037;Human Parvovirus B19 IgM;7;Parvovirus B19 IgM;1710;1026,00
+108-020;Human Parvovirus B19 viral load;8;Parvovirus B19 viral load;270;108,00
+107-038;Human T Lymphotropic virus (HTLV) 1 and 2;7;HTLV 1 and 2 antibody;1830;1281,00
+104-046;IA2;4;;1690;845,00
+104-047;IgE (Total);4;;200;100,00
+104-048;IgG subclasses;4;;640;256,00
+102-011;Immunocytochemistry;2;;1660;664,00
+111-003;Immunocytochemistry;11;;1690;1183,00
+104-049;Immunodeficiency (T&B Lymphocyte Subsets);4;T&B Lymphocyte Subsets;1020;408,00
+111-004;Immunofluorescence Histopathology;11;;1430;572,00
+104-050;Immunoglobulin D, IgD;4;;1860;558,00
+104-051;Immunoglobulins (IgG, IgA, IgM);4;;1780;712,00
+112-007;Inflammatory/non-inflammatory bursitis;12;;950;665,00
+105-043;INR;5;;1420;852,00
+101-075;Insulin;1;;1610;1127,00
+104-052;Insulin Antibodies;4;;1380;828,00
+101-076;Insulin-like Growth Factor 1;1;IGF-1;1460;730,00
+101-077;Insulin-like Growth Factor Binding Protein 3;1;IGFBP-3;580;290,00
+103-017;Intravascular cannulae;3;Tips;220;110,00
+101-078;Iron;1;;760;532,00
+108-021;JC virus PCR;8;;1780;712,00
+101-079;Jejunal Disaccharidases;1;;420;294,00
+105-044;Kleihauer test;5;;410;205,00
+101-080;Lactate;1;;140;56,00
+101-081;Lactate Dehydrogenase (LDH);1;;300;90,00
+101-082;Lamotrigine;1;;460;230,00
+107-039;Legionella urinary antigen detection;7;;800;320,00
+107-040;Leptospira (referral);7;;790;395,00
+104-053;Leukocyte Adhesion Deficiency (LAD) Markers;4;;1790;716,00
+101-083;Lipase (blood and fluid);1;;1490;894,00
+101-084;Lipid profile incl. total cholesterol, LDL, HDL, triglyceride;1;;810;567,00
+101-085;Lithium (serum);1;;230;138,00
+102-012;Liver FNA;2;;1000;500,00
+101-086;Liver Function Tests;1;;140;98,00
+104-054;L-Selectin Shedding assay;4;;1070;535,00
+102-013;Lung FNA;2;;190;133,00
+105-045;Lupus anticoagulant;5;;380;152,00
+101-087;Luteinising Hormone;1;LH;1820;910,00
+107-041;Lyme Disease;7;;970;388,00
+102-014;Lymph node FNA;2;;1150;805,00
+101-088;Magnesium (Blood and Urine);1;;1670;668,00
+105-046;Malarial parasites, detection of;5;;830;498,00
+104-055;Mannose Binding Lectins;4;;350;140,00
+105-047;Manual blood film;5;;280;140,00
+104-056;Mast Cell Tryptase;4;;1220;366,00
+107-042;Measles IgG;7;;1050;630,00
+107-043;Measles IgM;7;;630;441,00
+107-044;Measles virus PCR;7;;1300;910,00
+102-015;Mediastinal mass FNA;2;;2000;1200,00
+108-022;Meningococcal DNA detection by PCR (multiplex with Pneumococcal DNA PCR);8;Pneumococcal PCR;770;385,00
+101-089;Metadrenalines;1;;1630;978,00
+101-090;Met-haemoglobin;1;;1990;995,00
+101-091;Methotrexate;1;;390;273,00
+103-018;Mouth swab;3;;710;426,00
+103-019;MRSA;3;;280;168,00
+107-045;Mumps IgG;7;;1280;896,00
+107-046;Mumps IgM;7;;530;212,00
+104-057;Muscle Specific Tyrosine Kinase (MUSK);4;MUSK;1730;1038,00
+108-023;Mycoplasma PCR;8;;1210;605,00
+104-058;Myelin Associated Glycoprotein (MAG);4;MAG;840;588,00
+104-059;Myeloperoxidase (MPO) antibodies;4;;1300;520,00
+104-060;Myositis Antibodies;4;;680;204,00
+104-061;Naïve Memory and Effector T Cell Subsets;4;;1730;519,00
+102-016;Neck FNA;2;;1140;342,00
+110-003;Neisseria meningitidis: Functional antibody to serogroup B by Serum Bactericidal Antibody Assay (SBA);10;Functional antibody to Neisseria meningitidis serogroup B by Serum Bactericidal Antibody Assay (SBA);830;249,00
+110-004;Neisseria meningitidis: Functional antibody to serogroups A, C, W and Y by internationally standardised serum bactericidal antibody assays;10;"Meningococcal Serology; Molecular subtyping of isolates; Neisseria meningitidis serology";1160;812,00
+113-001;Neisseria meningitidis: Minimum inhibitory concentration;13;;660;462,00
+113-002;Neisseria meningitidis: Serogrouping and outer membrane typing;13;"Neisseria meningitidis isolate characterisation; Polysaccharide antigen detection";790;553,00
+104-062;Neutrophil Function (DHR) Test;4;;460;276,00
+112-008;Non-specific inflammatory arthropathies;12;;590;413,00
+112-009;Non-specific non-inflammatory arthropathies;12;;1490;894,00
+103-020;Nose Swab;3;;690;276,00
+101-092;NT-proBNP;1;;560;392,00
+102-017;Oesophageal brushings;2;;440;308,00
+101-093;Oestradiol;1;;400;240,00
+105-048;Oral Anticoagulant Control (INR);5;;1310;524,00
+101-094;Orosomucoid;1;;620;372,00
+101-095;Osmolality (Blood and Urine);1;;120;84,00
+112-010;Osteoarthritis;12;;910;273,00
+103-021;Ova, Cysts and Parasites;3;"Bilharzia; Cryptosporidium; Entamoeba; Giardia lamblia; Parasites; Schistosoma haematobium";910;637,00
+102-018;Ovarian cyst FNA;2;;1740;1044,00
+104-063;Ovary antibodies;4;;670;335,00
+102-019;Pancreatic FNA;2;;580;232,00
+101-096;Paracetamol;1;;1930;1158,00
+104-064;Paraneoplastic Neuronal Antibodies;4;;1280;768,00
+102-020;Paratesticular FNA;2;;390;195,00
+101-097;Parathyroid hormone;1;PTH;1070;642,00
+111-005;Perinatal post mortems;11;;890;445,00
+102-021;Peritoneal fluid;2;;1960;1176,00
+103-022;Peritoneal Fluids;3;;1890;1323,00
+102-022;Peritoneal washings;2;;930;465,00
+101-098;pH (blood and urine);1;;1010;505,00
+101-099;Phenobarbitone;1;;670;402,00
+101-100;Phenytoin;1;;1870;1122,00
+101-101;Phosphate (blood and urine);1;;990;693,00
+104-065;PLA2R Antibodies;4;;960;288,00
+105-049;Plasma viscosity;5;;1390;834,00
+104-066;Platelet Glycoprotein Expression;4;;1510;1057,00
+105-050;Platelets Aggregation Studies;5;;210;84,00
+102-023;Pleural fluid;2;;1270;889,00
+101-102;PLGF;1;;1900;760,00
+107-047;Pneumococcal urinary antigen detection;7;;180;108,00
+108-024;Pneumocystis jirovecii PCR;8;;520;364,00
+109-004;Post Trachelectomy Cytology;9;;1970;788,00
+101-103;Potassium;1;;1730;1038,00
+104-067;PR3 autoantibodies (cANCA);4;;1520;912,00
+101-104;Procalcitonin;1;;540;324,00
+101-105;Procollagen III Peptide;1;"P3NP; PIIINP";620;434,00
+101-106;Progesterone;1;;500;300,00
+101-107;Prolactin;1;;1920;1344,00
+101-108;Prostate Specific Antigen;1;;1040;312,00
+105-051;Protein C;5;;1310;655,00
+105-052;Protein S;5;;150;45,00
+105-053;Prothrombin time;5;;1170;819,00
+105-054;Prothrombin G20210A Mutation screen;5;;870;522,00
+112-011;Pseudogout (pyrophosphate crystals);12;;950;570,00
+105-055;PVIS;5;;770;385,00
+107-048;Q Fever Serology and PCR (referral);7;;660;396,00
+112-012;Quiescent gout (urate crystals);12;;1030;412,00
+103-023;Rapid/routine Carbapenemase-Producing Enterobacteriaceae (CPE) Screen;3;"CPE screen; Carbapenemase-Producing Enterobacteriaceae (CPE) Screen";1010;707,00
+101-109;Reducing substances (faeces only);1;;850;340,00
+102-024;Renal FNA;2;;420;210,00
+101-110;Renin concentration;1;;1510;755,00
+111-006;Resin embedding/thin sectioning Electron Microscopy;11;;1970;985,00
+103-024;Respiratory specimens;3;Sputum;160;80,00
+108-025;Respiratory virus PCR;8;"Respiratory screen; adenovirus";490;147,00
+105-056;Reticulocyte count;5;;430;129,00
+102-025;Retroperitoneal mass FNA;2;;1720;1032,00
+104-068;Rheumatoid factor;4;;1600;800,00
+105-057;RIPA;5;;770;539,00
+105-058;Ristocetin induced platelet aggregation (RIPA);5;;1070;428,00
+105-059;Routine haemoglobinopathy screening;5;;810;567,00
+107-049;Rubella Avidity (referral);7;;680;204,00
+107-050;Rubella IgG;7;;520;364,00
+107-051;Rubella IgM;7;;1310;655,00
+101-111;Salicylate;1;;1410;705,00
+102-026;Salivary gland FNA;2;;1380;414,00
+101-112;Selenium;1;;1060;530,00
+112-013;Sero-negative arthropathies;12;;130;52,00
+112-014;Sero-negative spondylarthropathies;12;;970;388,00
+101-113;Serum 17-hydroxyprogesterone;1;17-OHP;1950;1365,00
+105-060;Serum ferritin;5;;1980;792,00
+105-061;Serum folate;5;;1470;1029,00
+105-062;Serum intrinisic factor antibodies;5;;730;511,00
+104-069;Serum Protein Electrophoresis;4;Serum paraprotein identification/quantification;820;410,00
+105-063;Serum vitamin B12;5;;140;70,00
+101-114;SHBG;1;;720;432,00
+101-115;Sirolimus;1;;950;570,00
+104-070;Skin antibodies;4;;1430;572,00
+104-071;Smooth muscle antibodies;4;"Gastric Parietal Cell (GPC); Liver Kidney Microsomal (LKM); Mitochondrial antibodies";1430;1001,00
+101-116;Sodium (blood and urine);1;;1280;640,00
+102-027;Splenic FNA;2;;480;192,00
+102-028;Sputum;2;;1000;500,00
+104-072;ß2 Microglobulin;4;;1990;796,00
+103-025;Stem cell sterility check;3;;310;186,00
+107-052;Streptococcal serology (including anti-DNaseB);7;ASD;310;93,00
+110-005;Streptococcus pneumoniae serology;10;Pneumococcal serotype-specific IgG;500;300,00
+102-029;Subcutaneous mass FNA;2;;110;44,00
+101-117;Sweat tests;1;;460;138,00
+107-053;Syphilis confirmation including Immunoblot;7;"Syphilis IgM; Treponema pallidum confirmation";1640;492,00
+104-073;T Cell Activation Panel;4;;680;272,00
+101-118;Tacrolimus (FK506, prograf);1;;1150;805,00
+104-074;TB Gamma Interferon Release Assay (Quantiferon);4;;610;366,00
+102-030;Testicular FNA;2;;410;205,00
+104-075;Testis antibodies;4;;1680;840,00
+101-119;Testosterone;1;;700;210,00
+110-006;Tetanus antibodies;10;;1190;714,00
+101-120;Theophylline;1;;1810;1267,00
+104-076;Therapeutic Drug Monitoring of anti-TNF therapies Infliximab and Adalimumab;4;;1850;740,00
+101-121;Thiopental;1;;1500;600,00
+101-122;Thiopurine metabolites;1;;520;364,00
+101-123;Thiopurine Methyltransferase (TPMT);1;;1920;1152,00
+103-026;Throat Swab;3;;1380;828,00
+102-031;Thyroid FNA;2;;1190;714,00
+101-124;Thyroid peroxidase (TPO) antibodies;1;TPO;1860;1116,00
+101-125;Thyroid Stimulating Hormone;1;TSH;1760;704,00
+103-027;Tissue and biopsies;3;;1210;847,00
+101-126;Tobramycin;1;;420;210,00
+101-127;Total Protein;1;Protein creatine ratio;1570;785,00
+108-026;Toxoplasma PCR;8;;910;273,00
+107-054;Toxoplasma serology (avidity);7;;140;56,00
+107-055;Toxoplasma serology (IgG);7;;500;200,00
+107-056;Toxoplasma serology (IgM);7;;1180;590,00
+101-128;Transferrin (and saturation);1;;120;84,00
+107-057;Treponema pallidum screen;7;"Syphilis antibody; Treponema pallidum (syphilis) PCR";1030;618,00
+101-129;Triglycerides;1;;2000;800,00
+101-130;Triiodothyronine (free T3);1;;510;306,00
+101-131;Troponin T;1;;520;208,00
+104-077;TSH Receptor Antibodies;4;;930;651,00
+101-132;Type I Procollagen N terminal Peptide;1;P1NP;780;468,00
+105-064;Universal Antenatal Haemoglobinopathy Screening;5;;1930;1351,00
+101-133;Urate (blood and urine);1;;1740;1218,00
+101-134;Urea (blood and urine);1;;1210;484,00
+102-032;Ureteric washing;2;;290;174,00
+102-033;Urethral washing;2;;1040;312,00
+102-034;Urine (voided, catheterised, instrumented or from ileal conduit);2;;1990;796,00
+103-028;Urines;3;;1210;484,00
+101-135;Valproate;1;;980;588,00
+101-136;Vancomycin;1;;1900;1140,00
+107-058;Varicella Zoster IgG;7;;620;372,00
+107-059;Varicella Zoster IgM;7;;1280;384,00
+108-027;Varicella-zoster virus PCR;8;;430;301,00
+109-005;Vault Cytology;9;;1160;812,00
+101-137;Vitamin A (retinol);1;;500;300,00
+101-138;Vitamin B12;1;;1530;765,00
+101-139;Vitamin D;1;;1520;608,00
+101-140;Vitamin E (Tocopherol);1;;1320;924,00
+104-078;Voltage-Gated Calcium Channel Antibodies;4;;890;534,00
+104-079;Voltage-Gated Potassium Channel Antibodies;4;;350;245,00
+103-029;VRE screening;3;;1890;1323,00
+109-006;Vulval Cytology;9;;1220;732,00
+112-015;Wear and/or loosening of prosthetic joints;12;;1790;895,00
+101-141;Xanthochromia Screen (CSF);1;;120;60,00
+101-142;Zinc;1;;280;168,00
+104-080;Zinc Transporter 8 (ZnT8) antibodies;4;;930;651,00
