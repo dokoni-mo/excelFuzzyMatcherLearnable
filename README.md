@@ -5,6 +5,10 @@ VBA/Power Query-based solution for automated fuzzy text matching:
 - **Power Query** (ETL processes, fuzzy-merge)
 - **User-defined functions** (Levenshtein distance calculation)
 ---
+## Use Cases
+- **Medical/Research Data:** Automatically maps varying terminology (e.g., "OAK" → "Complete Blood Count") and abbreviations by learning from manual corrections. Ideal for labs with inconsistent nomenclature.
+- **Business Operations:** Resolves mismatches in vendor lists (e.g., "HP EliteBook" vs. "EliteBook-HP") and financial records through adaptive fuzzy logic, reducing manual cleanup.
+---
 ## Prerequisites
 - **Excel 2019+**
 - **Macros enabled**: `File → Options → Trust Center → Enable all macros`
